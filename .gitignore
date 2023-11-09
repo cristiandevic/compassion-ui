@@ -38,3 +38,6 @@ yarn-error.log*
 src/views/Home/components/Contact
 src/views/Home/components/Hero
 .idea
+build_dev
+build_prod
+build_beta
