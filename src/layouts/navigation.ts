@@ -15,27 +15,27 @@ const pages = {
   account: [
     {
       title: 'Situación en Bolivia',
-      href: '/testimonios',
+      href: '/in-maintenance',
     },
     {
       title: 'Programas de Desarrollo',
-      href: '/testimonios',
+      href: '/in-maintenance',
     },
     {
       title: 'Oportunidades de Patrocinio',
-      href: '/testimonios',
+      href: '/in-maintenance',
     },
     {
       title: 'Información Cultural',
-      href: '/testimonios',
+      href: '/in-maintenance',
     },
     {
       title: 'Noticias y Actualizaciones',
-      href: '/testimonios',
+      href: '/in-maintenance',
     },
     {
       title: 'Cómo Contribuir de Otras Maneras',
-      href: '/testimonios',
+      href: '/in-maintenance',
     },
   ],
   secondary: [
