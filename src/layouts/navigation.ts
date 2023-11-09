@@ -4,10 +4,6 @@ const pages = {
       title: 'home',
       href: '/home',
     },
-    {
-      title: 'Programas de desarrollo',
-      href: '/mobile-app',
-    },
   ],
   company: [
     {
@@ -18,8 +14,28 @@ const pages = {
   ],
   account: [
     {
-      title: 'General Settings',
-      href: '/account-general',
+      title: 'Situación en Bolivia',
+      href: '/testimonios',
+    },
+    {
+      title: 'Programas de Desarrollo',
+      href: '/testimonios',
+    },
+    {
+      title: 'Oportunidades de Patrocinio',
+      href: '/testimonios',
+    },
+    {
+      title: 'Información Cultural',
+      href: '/testimonios',
+    },
+    {
+      title: 'Noticias y Actualizaciones',
+      href: '/testimonios',
+    },
+    {
+      title: 'Cómo Contribuir de Otras Maneras',
+      href: '/testimonios',
     },
   ],
   secondary: [
