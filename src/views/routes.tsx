@@ -4,6 +4,7 @@ import {
   Home,
   TestimoniosView
 } from 'views';
+import NotFoundCover from './NotFoundCover';
 
 const routes = [
   {
@@ -17,6 +18,10 @@ const routes = [
   {
     path: '/testimonios',
     renderer: (params = {}): JSX.Element => <TestimoniosView {...params} />,
+  },
+  {
+    path: '/not-found-cover',
+    renderer: (params = {}): JSX.Element => <NotFoundCover {...params} />,
   },
 ];
 
