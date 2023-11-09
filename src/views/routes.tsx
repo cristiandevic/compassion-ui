@@ -1,7 +1,8 @@
 import React from 'react';
 
 import {
-  Home
+  Home,
+  TestimoniosView
 } from 'views';
 
 const routes = [
@@ -12,6 +13,10 @@ const routes = [
   {
     path: '/home',
     renderer: (params = {}): JSX.Element => <Home {...params} />,
+  },
+  {
+    path: '/testimonios',
+    renderer: (params = {}): JSX.Element => <TestimoniosView {...params} />,
   },
 ];
 

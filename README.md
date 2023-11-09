@@ -1,6 +1,6 @@
 # [compassionBolivia - Multipurpose Template + UI Kit](https://compassionBolivia.faviofigueroay.com/)
 
-MUI & ReactJS based Landing Pages Kit made with [MUI's](https://mui.com/?ref=maccarian-agency) components, [React](https://reactjs.org/?ref=maccarian-agency). It supports [create-react-app](https://facebook.github.io/create-react-app/?ref=maccarian-agency) build-tools (react-scripts), [NextJS](https://nextjs.org/?ref=maccarian-agency), [GatsbyJS](https://www.gatsbyjs.com/?ref=maccarian-agency) and Typescript to boost your app development process!
+MUI & ReactJS based Landing Pages Kit made with [MUI's](https://mui.com/?ref=uab_dev-agency) components, [React](https://reactjs.org/?ref=uab_dev-agency). It supports [create-react-app](https://facebook.github.io/create-react-app/?ref=uab_dev-agency) build-tools (react-scripts), [NextJS](https://nextjs.org/?ref=uab_dev-agency), [GatsbyJS](https://www.gatsbyjs.com/?ref=uab_dev-agency) and Typescript to boost your app development process!
 A professional React Kit that comes with plenty of ready-to-use MUI components that will help you to build faster & beautiful fontend pages. Each component is fully customizable, responsive and easy to integrate.
 
 ## Built with
@@ -73,7 +73,7 @@ The following are the pages that have Figma and Sketch design implementation:
 
 ## MUI Documentation
 
-The full documentation for the React Material Kit can be found [here](https://mui.com?ref=maccarian-agency).
+The full documentation for the React Material Kit can be found [here](https://mui.com?ref=uab_dev-agency).
 
 ## Free Updates and Support
 
@@ -84,6 +84,6 @@ No matter how well documented and built something is, sometimes you just need a 
 ## Contact Us
 
 - Email Us: hi@faviofigueroay.com
-- [Follow us on Linkedin](https://www.linkedin.com/company/maccarian)
-- [Follow us on Instagram](https://www.instagram.com/maccarian/)
+- [Follow us on Linkedin](https://www.linkedin.com/company/uab_dev)
+- [Follow us on Instagram](https://www.instagram.com/uab_dev/)
 - [Follow us on Facebook](https://facebook.com/uab.agency/)
