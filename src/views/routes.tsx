@@ -5,6 +5,7 @@ import {
   TestimoniosView
 } from 'views';
 import NotFoundCover from './NotFoundCover';
+import AtWork from './atWork';
 
 const routes = [
   {
@@ -22,6 +23,10 @@ const routes = [
   {
     path: '/not-found-cover',
     renderer: (params = {}): JSX.Element => <NotFoundCover {...params} />,
+  },
+  {
+    path: '/in-maintenance',
+    renderer: (params = {}): JSX.Element => <AtWork {...params} />,
   },
 ];
 
