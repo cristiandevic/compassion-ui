@@ -80,6 +80,14 @@ const Topbar = ({
             colorInvert={colorInvert}
           />
         </Box>
+        <Box marginLeft={4}>
+          <NavItem
+            title={'Compassion'}
+            id={'compassion-pages'}
+            items={accountPages}
+            colorInvert={colorInvert}
+          />
+        </Box>
       </Box>
       <Box sx={{ display: { xs: 'flex', md: 'none' } }} alignItems={'center'}>
         <Button
