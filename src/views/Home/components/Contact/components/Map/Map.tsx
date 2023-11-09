@@ -17,12 +17,12 @@ const Map = (): JSX.Element => {
               fontWeight: 700,
             }}
           >
-            Get in touch
+            Contactate
           </Typography>
         </Box>
         <Box>
           <Typography variant="h6" color={'text.secondary'}>
-            We'd love to talk about how we can help you.
+            Nos encantaría hablar sobre cómo podemos ayudarle.
           </Typography>
         </Box>
       </Box>
@@ -35,7 +35,7 @@ const Map = (): JSX.Element => {
           marginHeight={0}
           marginWidth={0}
           scrolling="no"
-          src="https://maps.google.com/maps?width=100%&height=100%&hl=en&q=Milan&ie=UTF8&t=&z=14&iwloc=B&output=embed"
+          src="https://maps.google.com/maps?width=100%&height=100%&hl=en&q=Cochabamba&ie=UTF8&t=&z=14&iwloc=B&output=embed"
           style={{
             minHeight: 300,
             borderRadius: 8,
@@ -55,7 +55,7 @@ const Map = (): JSX.Element => {
           >
             Call us:
           </Typography>
-          <Typography variant={'subtitle1'}>+39 34 111 222</Typography>
+          <Typography variant={'subtitle1'}>123</Typography>
         </Grid>
         <Grid item xs={12} sm={6}>
           <Typography
@@ -65,7 +65,7 @@ const Map = (): JSX.Element => {
           >
             Email us:
           </Typography>
-          <Typography variant={'subtitle1'}>hi@faviofigueroay.com</Typography>
+          <Typography variant={'subtitle1'}>fabiofigueroap@gmail.com</Typography>
         </Grid>
         <Grid item xs={12}>
           <Typography
@@ -76,7 +76,7 @@ const Map = (): JSX.Element => {
             Address:
           </Typography>
           <Typography variant={'subtitle1'}>
-            Via E. Gola 4, Milan MI, Italy
+            cochabamba Bolivia
           </Typography>
         </Grid>
       </Grid>
