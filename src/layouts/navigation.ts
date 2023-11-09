@@ -1,8 +1,8 @@
 const pages = {
   landings: [
     {
-      title: 'Programas de desarrollo',
-      href: '/mobile-app',
+      title: 'home',
+      href: '/home',
     },
     {
       title: 'Programas de desarrollo',
@@ -11,8 +11,8 @@ const pages = {
   ],
   company: [
     {
-      title: 'Career Lising',
-      href: '/career-listing',
+      title: 'testimonios',
+      href: '/testimonios',
     },
 
   ],
