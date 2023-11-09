@@ -55,15 +55,15 @@ const SidebarNav = ({ pages }: Props): JSX.Element => {
       </Box>
       <Box paddingX={2} paddingY={2}>
         <Box>
-          <NavItem title={'Landings'} items={landingPages} />
+          <NavItem title={'Informacion'} items={landingPages} />
         </Box>
         <Box>
-          <NavItem title={'Company'} items={companyPages} />
+          <NavItem title={'Testimonios'} items={companyPages} />
+        </Box>
+        <Box>
+          <NavItem title={'Compassion'} items={accountPages} />
         </Box>
         {/*<Box>
-          <NavItem title={'Pages'} items={secondaryPages} />
-        </Box>
-        <Box>
           <NavItem title={'Account'} items={accountPages} />
         </Box>
         <Box>
