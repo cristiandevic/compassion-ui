@@ -6,6 +6,7 @@ import {
 } from 'views';
 import NotFoundCover from './NotFoundCover';
 import AtWork from './atWork';
+import BlogArticle from './BlogArticle';
 
 const routes = [
   {
@@ -27,6 +28,10 @@ const routes = [
   {
     path: '/in-maintenance',
     renderer: (params = {}): JSX.Element => <AtWork {...params} />,
+  },
+  {
+    path: '/blog',
+    renderer: (params = {}): JSX.Element => <BlogArticle {...params} />,
   },
 ];
 

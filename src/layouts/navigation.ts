@@ -15,7 +15,7 @@ const pages = {
   account: [
     {
       title: 'Situación en Bolivia',
-      href: '/in-maintenance',
+      href: '/blog',
     },
     {
       title: 'Programas de Desarrollo',
